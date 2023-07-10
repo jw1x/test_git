@@ -1,3 +1,5 @@
+'''ПРОГРАММА ИЗ ТГ'''
+
 import random
 
 x = [random.randint(1, 100) for i in range(100)]
